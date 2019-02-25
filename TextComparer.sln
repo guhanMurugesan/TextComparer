@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextComparer.Console", "TextComparer\TextComparer.Console.csproj", "{853A551C-A48F-4804-B578-674E72B659C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextComparer.Logic", "TextComparer.Logic\TextComparer.Logic.csproj", "{42457E51-4493-4EC1-97A1-31D68D4C6916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853A551C-A48F-4804-B578-674E72B659C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853A551C-A48F-4804-B578-674E72B659C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853A551C-A48F-4804-B578-674E72B659C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853A551C-A48F-4804-B578-674E72B659C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42457E51-4493-4EC1-97A1-31D68D4C6916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42457E51-4493-4EC1-97A1-31D68D4C6916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42457E51-4493-4EC1-97A1-31D68D4C6916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42457E51-4493-4EC1-97A1-31D68D4C6916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\TextComparer\TextComparer.Logic\bin\Debug\TextComparer.Logic.dll
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\TextComparer\TextComparer.Logic\bin\Debug\TextComparer.Logic.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\TextComparer\TextComparer.Logic\obj\Debug\TextComparer.Logic.csprojResolveAssemblyReference.cache
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\TextComparer\TextComparer.Logic\obj\Debug\TextComparer.Logic.dll
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\TextComparer\TextComparer.Logic\obj\Debug\TextComparer.Logic.pdb

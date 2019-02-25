@@ -1,0 +1,1 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\TextComparer\TextComparer\bin\Debug\TextComparer.exe.config
